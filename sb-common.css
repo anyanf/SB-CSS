@@ -1,4 +1,17 @@
 /* 复合类 */
+.sb-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.sb-flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 .sb-flex-center {
   display: flex;
   flex-direction: row;
@@ -70,28 +83,25 @@
 }
 
 /* Flex 容器 */
-.sb-flex {
-  display: flex;
-}
 
-.sb-inline-flex {
+.sb-display-inline-flex {
   display: inline-flex;
 }
 
 /* 主轴方向 */
-.sb-flex-row {
+.sb-flex-direction-row {
   flex-direction: row;
 }
 
-.sb-flex-row-reverse {
+.sb-flex-direction-row-reverse {
   flex-direction: row-reverse;
 }
 
-.sb-flex-column {
+.sb-flex-direction-column {
   flex-direction: column;
 }
 
-.sb-flex-column-reverse {
+.sb-flex-direction-column-reverse {
   flex-direction: column-reverse;
 }
 
@@ -208,23 +218,23 @@
 }
 
 /* 单独对齐项目 */
-.self-start {
+.sb-self-start {
   align-self: flex-start;
 }
 
-.self-end {
+.sb-self-end {
   align-self: flex-end;
 }
 
-.self-center {
+.sb-self-center {
   align-self: center;
 }
 
-.self-baseline {
+.sb-self-baseline {
   align-self: baseline;
 }
 
-.self-stretch {
+.sb-self-stretch {
   align-self: stretch;
 }
 
