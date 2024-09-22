@@ -2,7 +2,7 @@
 
 *用更合理的方式写 CSS 和 Sass*
 
-翻译自 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+拷贝自 [Airbnb CSS / Sass Styleguide](https://github.com/Zhangjd/css-style-guide)
 
 ## 目录
 
