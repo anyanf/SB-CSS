@@ -4,4 +4,4 @@
 
 找到了一个使用规范：[Airbnb CSS / Sass Styleguide](https://github.com/Zhangjd/css-style-guide)
 
-复制一份在这里，后面封装尽量参考。
+拷贝一份在这里，后面封装尽量参考。
