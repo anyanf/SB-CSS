@@ -1,6 +1,9 @@
-# SB-CSS
+# SBHTMLKit
 
-封装常用的css。
+封装常用代码。
+
+
+## SB-CSS
 
 找到了一个使用规范：[Airbnb CSS / Sass Styleguide](https://github.com/Zhangjd/css-style-guide)
 
